@@ -1,0 +1,8 @@
+streamlit
+pandas
+scikit-learn
+PyPDF2
+nltk
+spacy
+yagmail
+streamlit-option-menu
